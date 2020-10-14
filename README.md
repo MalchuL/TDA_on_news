@@ -47,5 +47,5 @@ Example of diagrams (query/target/not_target):
 
 ![query.png](misc/query.png) ![target.png](misc/target.png) ![not_target.png](misc/not_target.png)
 
-Wasserstein distance between query and target: 5.339
+Wasserstein distance between query and target: 5.339 \
 Wasserstein distance between query and non target: 11.655
